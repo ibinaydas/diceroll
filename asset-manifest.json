@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/diceroll/static/css/main.f13bfc2d.chunk.css",
+    "main.js": "/diceroll/static/js/main.b541ec41.chunk.js",
+    "main.js.map": "/diceroll/static/js/main.b541ec41.chunk.js.map",
+    "runtime-main.js": "/diceroll/static/js/runtime-main.f4827888.js",
+    "runtime-main.js.map": "/diceroll/static/js/runtime-main.f4827888.js.map",
+    "static/js/2.f8aaacf1.chunk.js": "/diceroll/static/js/2.f8aaacf1.chunk.js",
+    "static/js/2.f8aaacf1.chunk.js.map": "/diceroll/static/js/2.f8aaacf1.chunk.js.map",
+    "index.html": "/diceroll/index.html",
+    "precache-manifest.c11d8148f28e16b58fee82041ffef726.js": "/diceroll/precache-manifest.c11d8148f28e16b58fee82041ffef726.js",
+    "service-worker.js": "/diceroll/service-worker.js",
+    "static/css/main.f13bfc2d.chunk.css.map": "/diceroll/static/css/main.f13bfc2d.chunk.css.map",
+    "static/js/2.f8aaacf1.chunk.js.LICENSE.txt": "/diceroll/static/js/2.f8aaacf1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4827888.js",
+    "static/js/2.f8aaacf1.chunk.js",
+    "static/css/main.f13bfc2d.chunk.css",
+    "static/js/main.b541ec41.chunk.js"
+  ]
+}
